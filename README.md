@@ -3,7 +3,7 @@
 Official EPK for DICHRO, founding Psyndica artist based in Austin, TX.
 
 ## Live Site
-🔗 **[dichromusic.com](https://dichromusic.com)**
+🔗 **[dichromusic.com](https://dichromusic.com/epk)**
 
 ## Deploy
 
